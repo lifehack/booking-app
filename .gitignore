@@ -4,3 +4,4 @@ storage/database.sqlite
 .env
 ba-project.sublime-project
 ba-project.sublime-workspace
+.idea
